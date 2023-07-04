@@ -15,7 +15,6 @@ Get ECMWF deterministic and ensemble forecast data here :
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 ![Zorbas_era_track](https://github.com/fredericferry/Zorbas_Medcyc_training/assets/76565450/159049d6-5718-4d96-a6f9-4e928612234f)
-
 ![CPS1](https://github.com/fredericferry/Zorbas_Medcyc_training/assets/76565450/e2ba88b0-15f5-4480-a7c4-8f0c5c3ef5fe)
 ![CPS2](https://github.com/fredericferry/Zorbas_Medcyc_training/assets/76565450/a2afcc2d-7e23-4483-9b05-742b5762fb21)
 ![MSLP_Thetae850_ZT500_an2](https://github.com/fredericferry/Zorbas_Medcyc_training/assets/76565450/da5f73a3-377b-4a78-b4ba-867c8b1c8e23)
