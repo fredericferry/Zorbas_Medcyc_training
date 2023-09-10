@@ -1,5 +1,5 @@
 # Zorbas_Medcyc_training
-Study of medicane Zorbas (2ndMedCyclones Training School Toulouse)
+Study of medicane Zorbas (2ndMedCyclones Training School Toulouse - June 2023)
 
 Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
 
